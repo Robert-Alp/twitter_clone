@@ -1,5 +1,7 @@
 # twitter_clone
 
+Installez les dépendances Node.js pour chaque module.
+
 Pour lancer le projet, dans chaque terminal, lancez :
 
 ```bash
